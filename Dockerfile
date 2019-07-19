@@ -1,8 +1,8 @@
 # Set the base image
-FROM resin/rpi-raspbian:latest
+FROM balenalib/raspberrypi3:latest
 
 # File Author / Maintainer
-MAINTAINER Cyrill Kulka
+MAINTAINER Cyrill Kulka / Dylan Straub
 
 
 ## BEGIN INSTALLATION
